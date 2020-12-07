@@ -20,3 +20,9 @@ PSLV uses an earth storable liquid rocket engine for its second stage,known as t
 Engine     :VIKAS
 Fuel       :UDMH+N204
 MAX. Thrust:799kN
+
+FIRST STAGE PS1:
+PSLV uses the S139 solid rocket motor that is agumented  by 6 solis starp-on boosters 
+Engine    :S139
+Fuel      :HTPB
+MAX.Thrust:4800kN
